@@ -3,14 +3,14 @@
   <channel>
     <title>TortugaVoladora</title>
     <description>Vuela vuela tortuguita con alas!</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Feb 2019 18:33:32 -0200</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 18:33:32 -0200</lastBuildDate>
+    <link>tortugavoladora.life/</link>
+    <atom:link href="tortugavoladora.life/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 08 Feb 2019 20:06:40 -0200</pubDate>
+    <lastBuildDate>Fri, 08 Feb 2019 20:06:40 -0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Primeiros dias na Patagonia, sul de Argentina e Chile, e &quot;isla Tierra del Fuego&quot;</title>
+        <title>Primeiros dias: &quot;Isla Grande de Tierra del Fuego&quot; e extremo sul de Argentina e Chile.</title>
         <description>&lt;p&gt;Se liga! O abraço é um ato que só é possível no agora! O momento presente é tudo que temos em verdade e esse momento deve ser vivido com amor!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;26 novembro 2018&lt;/strong&gt;&lt;/p&gt;
@@ -751,8 +751,8 @@ var lb = new Lightbox({
 &lt;p&gt;Paz e luz a todos seres!!&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Dec 2018 14:20:00 -0200</pubDate>
-        <link>http://localhost:4000/2018/12/22/diario-001/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/22/diario-001/</guid>
+        <link>tortugavoladora.life/2018/12/22/diario-001/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/12/22/diario-001/</guid>
         
         <category>bicicleta</category>
         
@@ -1710,8 +1710,8 @@ Aos irmãos, Frena e Wia, que estiveram juntos nessa jornada e a todas as pessoa
 &lt;p&gt;Estamos aqui para aprender a cada momento… com respeito, amor e verdade!&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Dec 2018 14:20:00 -0200</pubDate>
-        <link>http://localhost:4000/2018/12/02/bojurunaestrada/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/02/bojurunaestrada/</guid>
+        <link>tortugavoladora.life/2018/12/02/bojurunaestrada/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/12/02/bojurunaestrada/</guid>
         
         <category>bicicleta</category>
         
@@ -3048,8 +3048,8 @@ var lb = new Lightbox({
 &lt;p&gt;&lt;em&gt;SE PERMITA, SE LIBERTE!!&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Aug 2018 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/08/03/verdade-respeito-e-amor/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/03/verdade-respeito-e-amor/</guid>
+        <link>tortugavoladora.life/2018/08/03/verdade-respeito-e-amor/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/08/03/verdade-respeito-e-amor/</guid>
         
         <category>bicicleta</category>
         
@@ -4196,8 +4196,8 @@ var lb = new Lightbox({
 
 </description>
         <pubDate>Mon, 28 May 2018 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/05/28/tranquilandia/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/28/tranquilandia/</guid>
+        <link>tortugavoladora.life/2018/05/28/tranquilandia/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/05/28/tranquilandia/</guid>
         
         <category>bicicleta</category>
         
@@ -5045,8 +5045,8 @@ var lb = new Lightbox({
 &lt;p&gt;Estava entregue e aberto a tudo que a estrada estava me oferecendo, pessoas, lugares, conversas, sorrisos, podia sentir até a brisa mais suave da manhã com uma intesidade totalmente diferente do que já havia sentido… a partir desse momento sabia que não tinha mais volta, a pessoa que tinha começado essa viagem é completamente diferente de quem está respirando nesse momento.&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 May 2018 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/05/17/a-viagem-e-pra-dentro/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/17/a-viagem-e-pra-dentro/</guid>
+        <link>tortugavoladora.life/2018/05/17/a-viagem-e-pra-dentro/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/05/17/a-viagem-e-pra-dentro/</guid>
         
         <category>bicicleta</category>
         
@@ -5782,8 +5782,8 @@ var lb = new Lightbox({
 &lt;p&gt;Acordei cedo, fiz um bom aquecimento e alongamento. Me despedi do pessoal e fui até o mercado público encontrar um lugar para tomar um café. O caminho de hoje me leva para mais um paraíso que virou ponto turístico cobiçado, Jericoacoara/CE.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 May 2018 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/05/10/e-pra-frente-que-se-anda-com-calma-e-coracao-aberto/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/10/e-pra-frente-que-se-anda-com-calma-e-coracao-aberto/</guid>
+        <link>tortugavoladora.life/2018/05/10/e-pra-frente-que-se-anda-com-calma-e-coracao-aberto/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/05/10/e-pra-frente-que-se-anda-com-calma-e-coracao-aberto/</guid>
         
         <category>bicicleta</category>
         
@@ -5921,8 +5921,8 @@ var lb = new Lightbox({
 &lt;p&gt;Voltei para Barreirinhas, peguei a bike, calibrei os pneus, limpei o coreto da praça novamente, fiz a manutenção que faltava na Tortuga e montei acampamento, a chuva da noite é certa e o dilúvio já começou por aqui. Vou fazer um cuscuz pra janta, organizar os alforges pra estar tudo certo para a saída pela amanhã… pois o dia promete ser pesado e com muita lama…&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 May 2018 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2018/05/10/primeira-parada-lenceois-maranhenses/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/05/10/primeira-parada-lenceois-maranhenses/</guid>
+        <link>tortugavoladora.life/2018/05/10/primeira-parada-lenceois-maranhenses/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2018/05/10/primeira-parada-lenceois-maranhenses/</guid>
         
         <category>bicicleta</category>
         
@@ -6010,8 +6010,8 @@ var lb = new Lightbox({
 &lt;p&gt;No próximo post vou falar sobre os dias que fiquei em Atins e a preparação para a segunda parte da viagem.&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Jun 2017 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2017/06/02/estrada-e-pra-isso-que-vim/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/02/estrada-e-pra-isso-que-vim/</guid>
+        <link>tortugavoladora.life/2017/06/02/estrada-e-pra-isso-que-vim/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2017/06/02/estrada-e-pra-isso-que-vim/</guid>
         
         <category>bicicleta</category>
         
@@ -6077,8 +6077,8 @@ var lb = new Lightbox({
 &lt;p&gt;Gratidão!&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 May 2017 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2017/05/21/bike-na-estrada/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/21/bike-na-estrada/</guid>
+        <link>tortugavoladora.life/2017/05/21/bike-na-estrada/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2017/05/21/bike-na-estrada/</guid>
         
         <category>bicicleta</category>
         
@@ -6126,8 +6126,8 @@ var lb = new Lightbox({
 &lt;p&gt;Chegando em São Luís, montei a bicicleta, coloquei todos equipamentos e alforges nela, e saí pedalando da rodoviária em direção a casa da pessoa que me recebeu em São Luís, na noite anterior ao início da viagem de volta para casa em bicicleta.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 May 2017 13:20:00 -0300</pubDate>
-        <link>http://localhost:4000/2017/05/06/primeiro-dia-bike-no-bus-e-confusao/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/06/primeiro-dia-bike-no-bus-e-confusao/</guid>
+        <link>tortugavoladora.life/2017/05/06/primeiro-dia-bike-no-bus-e-confusao/</link>
+        <guid isPermaLink="true">tortugavoladora.life/2017/05/06/primeiro-dia-bike-no-bus-e-confusao/</guid>
         
         <category>bicicleta</category>
         
